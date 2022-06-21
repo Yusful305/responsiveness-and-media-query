@@ -41,5 +41,5 @@ margin-left:80px;}
 @media screen and (max-width:1440px){body{background-image:url("./desktop.png");}
 main{flex-direction:row;}}
 
-@media screen and(min-width:375px){body{background-image:url("./mobile.png");}
+@media screen and(max-width:375px){body{background-image:url("./mobile.png");}
 main{flex-direction:column;}}
